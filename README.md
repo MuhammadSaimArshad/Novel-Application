@@ -19,6 +19,6 @@ A simple and elegant mobile application to browse, read, and manage novels with 
 
 
 
--
+
 
 
